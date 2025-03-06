@@ -7,7 +7,7 @@ A command-line tool to check if email addresses have been compromised using the 
 - Check individual email addresses
 - Check passwords securely (using k-anonymity)
 - Process multiple email addresses from a file
-- Apply rate limiting to stay within API constraints
+- Apply rate limiting to stay within API constraints (currently set to 10 RPM)
 - Detailed breach reporting
 
 ## Installation
